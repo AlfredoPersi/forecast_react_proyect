@@ -11,3 +11,26 @@
 body {
   color: var(--color-main);
 }
+
+.body-page{
+  margin-top:  65px;
+}
+
+.image-div {
+ text-align: center;
+}
+
+
+.card-item {
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 350px;
+  width: 225px !important;
+  padding: 5px;
+  box-shadow: 0 0 7px 0 gray;
+}
+
+.card-item-image {
+  height: 100px;
+  width: 150px;
+}
